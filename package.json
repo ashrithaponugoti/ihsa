@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Anjithkumar-7/Group6_IHSA_GDP1/ihsaHome.html",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.2"
   }
 }
