@@ -2,7 +2,7 @@
   "name": "group6_ihsa_gdp1",
   "version": "1.0.0",
   "description": "This repository is created for GDP 1 IHSA",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
